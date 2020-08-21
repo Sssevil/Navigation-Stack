@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavigationStack</string>
+    <string name="towns">Towns</string>
+    <string name="fragments">Fragments</string>
+    <string name="profile">Profile</string>
+    <string name="kelly_gomez"> Name: Kelly Gomez</string>
+    <string name="_23">Age: 23</string>
+    <string name="profession_programmer">Profession: Programmer</string>
+    <string name="biography">Biography:</string>
+    <string name="kelly_is_a">Kelly is a hardworking girl who\nloves creating apps for phones\nProgramming in her life takes\na special place,\n
+        it is the work of her whole life.</string>
+    <string name="dncjsdjcnsdjsjbj">dncjsdjcnsdjsjbgdfuygufg\nWFUgfuGEYgfuFUDYGAUYFGAS\nUYDGSUYSGDUYGSU\nGUGFugfuguFV\nJDHFVJHFJHj</string>
+</resources>
